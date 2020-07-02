@@ -1,0 +1,20 @@
+.jumbotron {
+background-image: url(image/Liver1.jpg);
+background-size: cover;
+height: 750px;
+text-align: center;
+}
+.jumbotron p{
+	color: light;
+	font-size: 25px;
+}
+.jumbotron .br {
+	border-color: #;
+	width: 70px;
+	border-width: 3px;
+}
+.jumbotron .btn {
+	background-color: #;
+	border: none;
+	border-radius: 10px;
+}
